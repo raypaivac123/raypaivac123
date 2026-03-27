@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Rayssa Paiva</h1>
 
 <h3 align="center">
-Desenvolvedora Backend em formação • Java • Spring Boot • APIs REST
+Desenvolvedora Full Stack • Java • Spring Boot • APIs REST
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@ Desenvolvedora Backend em formação • Java • Spring Boot • APIs REST
 💻 Formada em Ciência da Computação  
 📚 Instrutora de Tecnologia no SENAC  
 🌱 Atualmente aprimorando minhas habilidades em Java, Spring Boot, APIs REST e Bancos de Dados  
-🎯 Foco em desenvolvimento Backend  
+
  
 
 Tenho grande interesse em aprender continuamente, resolver problemas e desenvolver aplicações utilizadas no mundo real.
