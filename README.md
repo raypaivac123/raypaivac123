@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, eu sou Rayssa Paiva</h1>
 
 <h3 align="center">
-Desenvolvedora Full Stack • Java • Spring Boot • APIs REST
+Java • Spring Boot • APIs REST • Banco de Dados
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=22&center=true&vCenter=true&width=600&lines=Backend+Developer+in+progress;Java+%7C+Spring+Boot+%7C+APIs+REST;Buscando+oportunidades+internacionais;Sempre+aprendendo+algo+novo" />
+<img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=22&center=true&vCenter=true&width=600&lines=Desenvolvimento+Backend;Java+%7C+Spring+Boot+%7C+APIs+REST;Construindo+projetos+reais;Sempre+aprendendo+algo+novo" />
 </p>
 
 ---
@@ -14,9 +14,8 @@ Desenvolvedora Full Stack • Java • Spring Boot • APIs REST
 
 💻 Formada em Ciência da Computação  
 📚 Instrutora de Tecnologia no SENAC  
-🌱 Atualmente aprimorando minhas habilidades em Java, Spring Boot, APIs REST e Bancos de Dados  
-
- 
+🌱 Atualmente aprimorando minhas habilidades em Java, Spring Boot, APIs REST e Banco de Dados  
+🎯 Interesse em arquitetura de software e boas práticas de desenvolvimento  
 
 Tenho grande interesse em aprender continuamente, resolver problemas e desenvolver aplicações utilizadas no mundo real.
 
@@ -27,6 +26,18 @@ Tenho grande interesse em aprender continuamente, resolver problemas e desenvolv
 <p>
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github" />
+
+</p>
+
+---
+
+## Estatísticas GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raypaivac123&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raypaivac123&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -45,14 +56,6 @@ Tenho grande interesse em aprender continuamente, resolver problemas e desenvolv
 </a>
 
 </p>
-
----
-
-## Objetivo
-
-Evoluir como desenvolvedora backend, construir projetos bem estruturados e participar de projetos reais que gerem impacto.
-
-Este perfil será utilizado para compartilhar minha evolução, projetos acadêmicos e projetos pessoais.
 
 ---
 
