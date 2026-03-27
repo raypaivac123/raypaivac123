@@ -16,7 +16,7 @@ Desenvolvedora Backend em formação • Java • Spring Boot • APIs REST
 📚 Instrutora de Tecnologia no SENAC  
 🌱 Atualmente aprimorando minhas habilidades em Java, Spring Boot, APIs REST e Bancos de Dados  
 🎯 Foco em desenvolvimento Backend  
-🌍 Buscando oportunidades internacionais  
+ 
 
 Tenho grande interesse em aprender continuamente, resolver problemas e desenvolver aplicações utilizadas no mundo real.
 
